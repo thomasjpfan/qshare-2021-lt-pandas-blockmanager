@@ -9,7 +9,7 @@ class: title-slide
 <a href="https://www.github.com/thomasjpfan" target="_blank"><span class="icon icon-github icon-left"></span></a>
 <a href="https://www.twitter.com/thomasjpfan" target="_blank"><span class="icon icon-twitter"></span></a>
 <a class="this-talk-link", href="https://github.com/thomasjpfan/qshare-2021-lt-pandas-blockmanager" target="_blank">
-This talk on Github: thomasjpfan/scipy-2020-lightning-talk-pandas-blockmanager</a>
+This talk on Github: thomasjpfan/qshare-2021-lt-pandas-blockmanager</a>
 
 ---
 
